@@ -1,0 +1,226 @@
+{
+ "before_training": {
+  "same_rule": {
+   "updated_part_correct": null,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  },
+  "updated_rule": {
+   "updated_part_correct": 0.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  }
+ },
+ "A_same_rule_lr0.0001_steps300": [
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.9966250061988831,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 135,
+   "near_miss_false_unlock_rate": 0.9375,
+   "weight_change_l2": 0.3799111843109131
+  },
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.99652498960495,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 139,
+   "near_miss_false_unlock_rate": 0.9652777910232544,
+   "weight_change_l2": 0.3789246678352356
+  },
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.9966999888420105,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 132,
+   "near_miss_false_unlock_rate": 0.9166666865348816,
+   "weight_change_l2": 0.38031765818595886
+  }
+ ],
+ "A_same_rule_lr0.0001_steps3000": [
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.9982749819755554,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 69,
+   "near_miss_false_unlock_rate": 0.3402777910232544,
+   "weight_change_l2": 2.457857131958008
+  },
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.9983000159263611,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 68,
+   "near_miss_false_unlock_rate": 0.4722222089767456,
+   "weight_change_l2": 2.525864362716675
+  },
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.9985499978065491,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 58,
+   "near_miss_false_unlock_rate": 0.3680555522441864,
+   "weight_change_l2": 2.4702627658843994
+  }
+ ],
+ "A_same_rule_lr0.001_steps300": [
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.9980250000953674,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 79,
+   "near_miss_false_unlock_rate": 0.4097222089767456,
+   "weight_change_l2": 2.30375337600708
+  },
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.9976000189781189,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 96,
+   "near_miss_false_unlock_rate": 0.4513888955116272,
+   "weight_change_l2": 2.3204562664031982
+  },
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.9979249835014343,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 83,
+   "near_miss_false_unlock_rate": 0.4375,
+   "weight_change_l2": 2.3029580116271973
+  }
+ ],
+ "A_same_rule_lr0.001_steps3000": [
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.9997000098228455,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 12,
+   "near_miss_false_unlock_rate": 0.0833333358168602,
+   "weight_change_l2": 5.656260013580322
+  },
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.9995499849319458,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 18,
+   "near_miss_false_unlock_rate": 0.125,
+   "weight_change_l2": 5.610964298248291
+  },
+  {
+   "updated_part_correct": null,
+   "everything_else_correct": 0.999875009059906,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 5,
+   "near_miss_false_unlock_rate": 0.0347222238779068,
+   "weight_change_l2": 5.710232734680176
+  }
+ ],
+ "B_rule_update_lr0.0001_steps300": [
+  {
+   "updated_part_correct": 0.8631862998008728,
+   "everything_else_correct": 0.9966334700584412,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 141,
+   "near_miss_false_unlock_rate": 0.9513888955116272,
+   "weight_change_l2": 0.40707269310951233
+  },
+  {
+   "updated_part_correct": 0.8606860637664795,
+   "everything_else_correct": 0.9966000914573669,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 149,
+   "near_miss_false_unlock_rate": 0.9583333134651184,
+   "weight_change_l2": 0.40759241580963135
+  },
+  {
+   "updated_part_correct": 0.8642864227294922,
+   "everything_else_correct": 0.9967001080513,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 135,
+   "near_miss_false_unlock_rate": 0.9305555820465088,
+   "weight_change_l2": 0.40680432319641113
+  }
+ ],
+ "B_rule_update_lr0.0001_steps3000": [
+  {
+   "updated_part_correct": 0.9976997971534729,
+   "everything_else_correct": 0.9980667233467102,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 81,
+   "near_miss_false_unlock_rate": 0.4583333432674408,
+   "weight_change_l2": 2.425056219100952
+  },
+  {
+   "updated_part_correct": 0.9980998039245605,
+   "everything_else_correct": 0.9983333945274353,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 69,
+   "near_miss_false_unlock_rate": 0.4791666567325592,
+   "weight_change_l2": 2.449540376663208
+  },
+  {
+   "updated_part_correct": 0.9978997707366943,
+   "everything_else_correct": 0.9983667135238647,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 70,
+   "near_miss_false_unlock_rate": 0.4861111044883728,
+   "weight_change_l2": 2.437800645828247
+  }
+ ],
+ "B_rule_update_lr0.001_steps300": [
+  {
+   "updated_part_correct": 0.9972997307777405,
+   "everything_else_correct": 0.9978334307670593,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 92,
+   "near_miss_false_unlock_rate": 0.5,
+   "weight_change_l2": 2.247297525405884
+  },
+  {
+   "updated_part_correct": 0.9971997141838074,
+   "everything_else_correct": 0.9977667331695557,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 95,
+   "near_miss_false_unlock_rate": 0.5277777910232544,
+   "weight_change_l2": 2.259582042694092
+  },
+  {
+   "updated_part_correct": 0.9966996908187866,
+   "everything_else_correct": 0.9980667233467102,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 91,
+   "near_miss_false_unlock_rate": 0.5,
+   "weight_change_l2": 2.234768867492676
+  }
+ ],
+ "B_rule_update_lr0.001_steps3000": [
+  {
+   "updated_part_correct": 0.9996999502182007,
+   "everything_else_correct": 0.9997000098228455,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 12,
+   "near_miss_false_unlock_rate": 0.0833333358168602,
+   "weight_change_l2": 5.461996078491211
+  },
+  {
+   "updated_part_correct": 0.9995999336242676,
+   "everything_else_correct": 0.9995999932289124,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 16,
+   "near_miss_false_unlock_rate": 0.1111111119389534,
+   "weight_change_l2": 5.336028099060059
+  },
+  {
+   "updated_part_correct": 0.9997999668121338,
+   "everything_else_correct": 0.9998999834060669,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 5,
+   "near_miss_false_unlock_rate": 0.0347222238779068,
+   "weight_change_l2": 5.4074625968933105
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "e1": {
+  "add": {
+   "in_range_acc": 1.0,
+   "out_of_range_acc": 1.0,
+   "active_l1_units": 2,
+   "active_l2_units": 2
+  },
+  "sub": {
+   "in_range_acc": 1.0,
+   "out_of_range_acc": 1.0,
+   "active_l1_units": 2,
+   "active_l2_units": 2
+  },
+  "max": {
+   "in_range_acc": 1.0,
+   "out_of_range_acc": 1.0,
+   "active_l1_units": 2,
+   "active_l2_units": 2
+  },
+  "lt": {
+   "in_range_acc": 1.0,
+   "out_of_range_acc": 1.0,
+   "active_l1_units": 2,
+   "active_l2_units": 2
+  },
+  "mul": {
+   "in_range_acc": 1.0,
+   "out_of_range_acc": 0.0,
+   "active_l1_units": 31,
+   "active_l2_units": 15
+  },
+  "mod5": {
+   "in_range_acc": 1.0,
+   "out_of_range_acc": 0.5,
+   "active_l1_units": 7,
+   "active_l2_units": 7
+  }
+ },
+ "e4": {
+  "mul_dda_integer_points": {
+   "frac_zero_grad": 0.12109375,
+   "frac_equal_true_b": 0.0625,
+   "mean_abs_err_vs_b": 7.5
+  },
+  "mul_dda_half_points": {
+   "frac_zero_grad": 0.58984375,
+   "frac_equal_true_b": 0.0625,
+   "mean_abs_err_vs_b": 4.21875
+  },
+  "program_selection": {
+   "mul": {
+    "picked": "mul",
+    "weight": 0.9803
+   },
+   "max": {
+    "picked": "max",
+    "weight": 0.9377
+   },
+   "mod5": {
+    "picked": "mod5",
+    "weight": 0.6979
+   }
+  }
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "margin_steps300": [
+  {
+   "updated_part_correct": 0.8531852960586548,
+   "everything_else_correct": 0.9980334043502808,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 81,
+   "near_miss_false_unlock_rate": 0.5625
+  },
+  {
+   "updated_part_correct": 0.8514851331710815,
+   "everything_else_correct": 0.9980000853538513,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 84,
+   "near_miss_false_unlock_rate": 0.5833333134651184
+  },
+  {
+   "updated_part_correct": 0.8546854853630066,
+   "everything_else_correct": 0.9980000853538513,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 81,
+   "near_miss_false_unlock_rate": 0.5625
+  }
+ ],
+ "margin_steps3000": [
+  {
+   "updated_part_correct": 0.9989998936653137,
+   "everything_else_correct": 0.9988666772842407,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 44,
+   "near_miss_false_unlock_rate": 0.2291666716337204
+  },
+  {
+   "updated_part_correct": 0.9989998936653137,
+   "everything_else_correct": 0.9989000558853149,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 43,
+   "near_miss_false_unlock_rate": 0.2777777910232544
+  },
+  {
+   "updated_part_correct": 0.9988998770713806,
+   "everything_else_correct": 0.9992000460624695,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 35,
+   "near_miss_false_unlock_rate": 0.2430555522441864
+  }
+ ],
+ "freeze_steps300": [
+  {
+   "updated_part_correct": 0.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  },
+  {
+   "updated_part_correct": 0.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  },
+  {
+   "updated_part_correct": 0.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  }
+ ],
+ "freeze_steps3000": [
+  {
+   "updated_part_correct": 1.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  },
+  {
+   "updated_part_correct": 1.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  },
+  {
+   "updated_part_correct": 1.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  }
+ ],
+ "margin+freeze_steps300": [
+  {
+   "updated_part_correct": 0.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  },
+  {
+   "updated_part_correct": 0.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  },
+  {
+   "updated_part_correct": 0.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  }
+ ],
+ "margin+freeze_steps3000": [
+  {
+   "updated_part_correct": 1.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  },
+  {
+   "updated_part_correct": 1.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  },
+  {
+   "updated_part_correct": 1.0,
+   "everything_else_correct": 1.0,
+   "nonveg_with_right_pin": 1.0,
+   "false_unlocks_of_39996": 0,
+   "near_miss_false_unlock_rate": 0.0
+  }
+ ]
+}
