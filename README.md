@@ -6,7 +6,7 @@ Small experiments on networks that are compiled directly from programs, compared
 
 The idea comes from **Cheng Lou** ([@_chenglou](https://x.com/_chenglou)), who [introduced Handwired](https://x.com/_chenglou/status/2110557373651931267) on 15 October 2026. Handwired is a toy project that turns ordinary JavaScript into a neural network with no training, exact outputs and full differentiability, running in a browser.
 
-This repo does not contain or use Handwired's code. It is an independent re-creation of the idea in Python and PyTorch, plus follow-up experiments. Any mistakes are ours.
+This repo does not contain or use Handwired's code, which is at [github.com/chenglou/handwired](https://github.com/chenglou/handwired). It is an independent re-creation of the idea in Python and PyTorch, plus follow-up experiments. Any mistakes are ours.
 
 ## The trick
 
